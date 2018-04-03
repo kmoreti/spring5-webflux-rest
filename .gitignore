@@ -27,3 +27,4 @@ nbdist/
 /gradlew
 /gradlew.bat
 /gradle/
+/out/
